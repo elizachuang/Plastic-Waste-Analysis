@@ -1,0 +1,240 @@
+﻿country,flow,weight_kg,trade_value_usd
+Türkiye,Import,677663047,193674075
+Germany,Import,523626887.9,202417547.4
+Netherlands,Import,483414116,173822140.7
+Malaysia,Import,433474906.4,167853460.4
+Belgium,Import,348190856.5,125437535.8
+Indonesia,Import,262767847,104689511
+Other Asia,Import,247662267,159487233.9
+Czechia,Import,214635703.7,28265720
+Italy,Import,202140317,108318570.8
+Austria,Import,184700161.7,75891249.91
+Sweden,Import,179476641.2,21301828.39
+Canada,Import,156736249,81482914.64
+Thailand,Import,149177058.9,57141818.19
+France,Import,136182668.3,74282090.03
+Slovenia,Import,112741586.5,33936529.54
+Lithuania,Import,103270895.6,25942376
+Denmark,Import,96010133.79,17122786.59
+Portugal,Import,72578790.23,30926777.37
+Romania,Import,58447419.64,25922606.7
+India,Import,55354395.73,25737714.4
+Pakistan,Import,46233317.85,18766530.01
+Croatia,Import,46172201.82,15734102
+Egypt,Import,31758675.38,16706852.72
+Ireland,Import,30727106.42,23244114.97
+Saudi Arabia,Import,26131136,13265030.87
+Azerbaijan,Import,25548514,14553711.56
+Uzbekistan,Import,22899996.14,3024810.95
+Latvia,Import,17908651,6470898.477
+Serbia,Import,16700033.46,2600654
+Guatemala,Import,14297754,9739036
+Peru,Import,12572361.73,6938512.692
+Myanmar,Import,12315718.8,3369438.636
+Ukraine,Import,10015394.64,2586596.19
+Hong Kong,Import,9905727,4635073.404
+Australia,Import,9502623.59,4349359.261
+Kenya,Import,9449878,3818885.143
+Luxembourg,Import,9432210.95,4629560.691
+Cyprus,Import,9256462,682912.798
+Finland,Import,8417746.623,4633600.558
+Japan,Import,7635311,7664208.868
+Estonia,Import,7605215.946,3153512.17
+Morocco,Import,7567387.556,3956463.693
+Paraguay,Import,7386112.95,2658666.12
+Sri Lanka,Import,6131509,2432676.407
+El Salvador,Import,5849902.95,4249786.01
+Nigeria,Import,5772130.1,4374355.843
+Israel,Import,5058596.053,2603000
+Uganda,Import,4789770,2452502.11
+Norway,Import,4129724,1518159.138
+Colombia,Import,4097590.24,1475755.39
+Philippines,Import,3445811.71,1880073
+Chile,Import,2356560.085,785263.539
+Costa Rica,Import,2353036.08,1078289.32
+Zimbabwe,Import,2213758.3,1321291.042
+Dominican Rep.,Import,2212076.688,916031.502
+Kyrgyzstan,Import,2107656,301442
+Tanzania,Import,2045543,2139815.516
+Honduras,Import,1952426.06,1262322.67
+Bosnia Herzegovina,Import,1582827.78,770497.993
+Benin,Import,1182640,15862.884
+Bahrain,Import,1071605.4,580618.91
+North Macedonia,Import,906228,303682.83
+Madagascar,Import,811700.9,259074.011
+Senegal,Import,659777,501847.637
+Singapore,Import,580571.789,145131.09
+Togo,Import,567683,207216.559
+Mozambique,Import,480987.741,212822.8
+Burkina Faso,Import,422125,155506.549
+New Zealand,Import,416586,239710.099
+Bolivia,Import,357025.414,161409
+Zambia,Import,267371,10992.183
+Kazakhstan,Import,264163.4,103122.7
+Angola,Import,263853.03,110901.04
+Malawi,Import,251136.64,140117.881
+Niger,Import,248164,82036.118
+Cambodia,Import,232778.4,422655.81
+Armenia,Import,203457.76,43526.07
+Trinidad and Tobago,Import,165493,233448.923
+Georgia,Import,145703.65,52104.224
+Uruguay,Import,122638,25647
+Cayman Islands,Import,113991.64,45380.437
+Kuwait,Import,103730,56935
+Qatar,Import,93882.03,312141.387
+Mauritania,Import,74496,27578.59
+Panama,Import,64881,183325
+Namibia,Import,50342.61,73490.951
+Gambia,Import,33570,19005.155
+Malta,Import,33169,57763.398
+Lebanon,Import,19959.81,8123
+Bahamas,Import,9625.1,84796
+Ivory Coast,Import,6750,1614.53
+Montenegro,Import,4431.69,7923.884
+Brunei,Import,4094,17862.904
+Samoa,Import,3137.18,22660.66
+Moldova,Import,1462.041,348
+Iceland,Import,1427.575,10124.084
+Barbados,Import,870,1498.5
+Fiji,Import,599.92,3920.557
+Cabo Verde,Import,474,1345.617
+Lesotho,Import,166.967,2113.298
+Ecuador,Import,82.034,223.432
+Bermuda,Import,62.53,2205.56
+Guyana,Import,47.04,1246.675
+Grenada,Import,21.3,157.726
+Montserrat,Import,10,104.237
+Antigua and Barbuda,Import,5,111.915
+Mauritius,Import,3,470.301
+Hungary,Import,0,3779185
+South Africa,Import,0,4046710.814
+Mexico,Import,0,51399761
+Seychelles,Import,,1778.879
+Nicaragua,Import,,539218.9
+Brazil,Import,,3308653
+Switzerland,Import,,9772102.392
+Greece,Import,,10440238.19
+South Korea,Import,,13048769
+Bulgaria,Import,,13564821.07
+Slovakia,Import,,22120607.3
+Poland,Import,,53646468
+UK,Import,,62049739.73
+Spain,Import,,107430756.5
+USA,Import,,385659320
+Japan,Export,683122787,300937610.3
+Netherlands,Export,551786815,234601637.3
+Belgium,Export,362024118.3,139102463
+Other Asia,Export,158482035,39683829
+Poland,Export,138379837.9,68030523
+Sweden,Export,122609703.4,26304554.88
+Slovenia,Export,115869436.5,32232034.56
+Czechia,Export,115364209.3,40285423
+Philippines,Export,101871561.7,88314755
+Denmark,Export,87149213.59,31591388.52
+Switzerland,Export,86849034.38,14712760.32
+Ireland,Export,70923131.51,31745942.89
+Norway,Export,68643512,17377807.52
+Greece,Export,63644281,25019068.47
+China,Export,63180097.95,21806949
+Indonesia,Export,53187930.15,41051191.87
+Portugal,Export,53082412,29293624.36
+Croatia,Export,52150781.54,13780826
+South Africa,Export,44367108.39,19754410.76
+Slovakia,Export,41104374.84,17798869.94
+Dominican Rep.,Export,31517192.27,15276012.93
+Tanzania,Export,31354677,14054647.59
+Singapore,Export,29010310,11118826.05
+Australia,Export,28019747,7941995.675
+New Zealand,Export,27274938,6469341.493
+Saudi Arabia,Export,25779158,23823943.94
+Finland,Export,25059245.4,9240625.959
+Israel,Export,24208904,10936000
+Kazakhstan,Export,20637586,10186363.71
+Latvia,Export,18847760,6000953.784
+Lebanon,Export,17667578.68,7372387
+Honduras,Export,17021851.04,12392234.85
+Estonia,Export,16459080.5,8553423.35
+Lithuania,Export,16321929,3789506
+Bulgaria,Export,15528632.46,7412577.162
+Pakistan,Export,15461301,2010198.17
+Uganda,Export,14785304,7287421.06
+Türkiye,Export,10567358,9851597
+Cyprus,Export,10106763,2787737.982
+Luxembourg,Export,9859194.367,3822641.176
+Morocco,Export,9456953,6366940.225
+Mauritania,Export,9244750,1281832.019
+Brazil,Export,8975112.765,4856429
+Nicaragua,Export,8864238.1,5266986.3
+El Salvador,Export,8674533.85,4714298.68
+Nigeria,Export,8318524.297,3774067.272
+Iceland,Export,7720581.241,2098940.156
+Guatemala,Export,7154588,4219441
+Chile,Export,6655537,4209361.128
+Myanmar,Export,6542720,2436267.36
+Hong Kong,Export,6534524,3003234.253
+Costa Rica,Export,5853360,2606253.32
+Colombia,Export,5750078.42,3216869.99
+North Macedonia,Export,4985453,2218739.4
+Kenya,Export,4764770,2294360.285
+Kuwait,Export,4599836,3171434
+Panama,Export,4563060,1346115
+Malta,Export,4548158,1856471.905
+Ecuador,Export,3900011.5,2461343.8
+Namibia,Export,3283100,718432.829
+Bosnia Herzegovina,Export,2681708,1006116.052
+India,Export,2621449.671,2070475.735
+Zimbabwe,Export,2141830,265061.803
+Burkina Faso,Export,2119000,91630.119
+Ivory Coast,Export,1827129,243478.8
+Serbia,Export,1787546,1219280
+Bolivia ,Export,1450673,613079.1
+Uruguay,Export,1299580,386312
+Barbados,Export,1135586,513000
+Togo,Export,1090030,358312.521
+Senegal,Export,1026000,546370.072
+Trinidad and Tobago,Export,962329,363829.357
+Ukraine,Export,957575,492943.88
+Mozambique,Export,949772,718163.7
+Sri Lanka,Export,912600,417438.731
+Paraguay,Export,827536,159267.28
+Maldives,Export,812880,160549.482
+Peru,Export,736344.344,453435.621
+Georgia,Export,622866,242240.727
+Kyrgyzstan,Export,596584,553569
+Montenegro,Export,527240,163133.394
+Suriname,Export,447040,125228.9
+Uzbekistan,Export,379530,99341
+Lesotho,Export,317078,49714.881
+Armenia,Export,285634,180733.49
+Belize,Export,220273.57,23736.66
+Cambodia,Export,209415,116270.45
+Macao,Export,181034,40149.391
+Egypt,Export,170751.529,78846
+Madagascar,Export,136017.51,50233.32
+Azerbaijan,Export,131191,70703.2
+Zambia,Export,130000,24280.429
+Moldova,Export,40116,15079
+Guyana,Export,38000,3959.997
+Benin,Export,17760,3299.167
+Cayman Islands,Export,10051.51,4480
+Brunei,Export,8520,2451.434
+Samoa,Export,7068,2365.705
+Angola,Export,1777.25,47208.43
+Bahamas,Export,453.592,200
+Hungary,Export,0,10227926
+Mexico,Export,0,57566846
+Qatar,Export,0,3421696.37
+Austria,Export,,56402967
+Canada,Export,,96566221.47
+Fiji,Export,,146401.269
+France,Export,,123603734.4
+Germany,Export,,306260907.9
+Italy,Export,,79930672.73
+South Korea,Export,,15787456
+Malaysia,Export,,9383414.057
+Mauritius,Export,,892752.272
+Romania,Export,,17857642.8
+Spain,Export,,81287553.13
+Thailand,Export,,89029417.67
+UK,Export,,201071939.3
+USA,Export,,264308919

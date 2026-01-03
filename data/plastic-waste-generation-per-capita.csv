@@ -1,0 +1,187 @@
+country,country_code,per_capita_kg_per_day
+Albania,ALB,0.0690
+Algeria,DZA,0.1440
+Angola,AGO,0.0620
+Anguilla,AIA,0.2520
+Antigua and Barbuda,ATG,0.6600
+Argentina,ARG,0.1830
+Aruba,ABW,0.2520
+Australia,AUS,0.1120
+Bahamas,BHS,0.3900
+Bahrain,BHR,0.1320
+Bangladesh,BGD,0.0340
+Barbados,BRB,0.5700
+Belgium,BEL,0.0800
+Belize,BLZ,0.1720
+Benin,BEN,0.0430
+Bermuda,BMU,0.2520
+Bosnia and Herzegovina,BIH,0.1440
+Brazil,BRA,0.1650
+British Virgin Islands,VGB,0.2520
+Brunei,BRN,0.0260
+Bulgaria,BGR,0.1540
+Cambodia,KHM,0.0660
+Cameroon,CMR,0.0460
+Canada,CAN,0.0930
+Cape Verde,CPV,0.0650
+Cayman Islands,CYM,0.2520
+Channel Islands,OWID_CIS,0.2520
+Chile,CHL,0.1190
+China,CHN,0.1210
+Christmas Island,CXR,0.2520
+Cocos Islands,CCK,0.2520
+Colombia,COL,0.1440
+Comoros,COM,0.2010
+Congo,COG,0.0690
+Cook Islands,COK,0.1440
+Costa Rica,CRI,0.2580
+Cote d'Ivoire,CIV,0.1030
+Croatia,HRV,0.2520
+Cuba,CUB,0.0890
+Curacao,CUW,0.2520
+Cyprus,CYP,0.2480
+Democratic Republic of Congo,COD,0.0450
+Denmark,DNK,0.0470
+Djibouti,DJI,0.1030
+Dominica,DMA,0.1490
+Dominican Republic,DOM,0.1440
+Ecuador,ECU,0.1470
+Egypt,EGY,0.1780
+El Salvador,SLV,0.1470
+Equatorial Guinea,GNQ,0.1440
+Eritrea,ERI,0.0450
+Estonia,EST,0.1760
+Falkland Islands,FLK,0.2520
+Faroe Islands,FRO,0.2520
+Fiji,FJI,0.1890
+Finland,FIN,0.2340
+France,FRA,0.1920
+French Guiana,GUF,0.1440
+French Polynesia,PYF,0.2520
+Gabon,GAB,0.0540
+Gambia,GMB,0.0480
+Georgia,GEO,0.0680
+Germany,DEU,0.4850
+Ghana,GHA,0.0400
+Gibraltar,GIB,0.2520
+Greece,GRC,0.2000
+Greenland,GRL,0.2520
+Grenada,GRD,0.3250
+Guadeloupe,GLP,0.1440
+Guam,GUM,0.2520
+Guatemala,GTM,0.2800
+Guernsey,GGY,0.2520
+Guinea,GIN,0.0300
+Guinea-Bissau,GNB,0.0540
+Guyana,GUY,0.5860
+Haiti,HTI,0.0900
+Honduras,HND,0.1890
+Hong Kong,HKG,0.3980
+Iceland,ISL,0.2810
+India,IND,0.0100
+Indonesia,IDN,0.0570
+Iran,IRN,0.1440
+Iraq,IRQ,0.1030
+Ireland,IRL,0.4300
+Israel,ISR,0.2970
+Italy,ITA,0.1340
+Jamaica,JAM,0.0340
+Japan,JPN,0.1710
+Jordan,JOR,0.1440
+Kenya,KEN,0.0270
+Kiribati,KIR,0.1030
+Kuwait,KWT,0.6860
+Latvia,LVA,0.1240
+Lebanon,LBN,0.0940
+Liberia,LBR,0.0840
+Libya,LBY,0.1440
+Lithuania,LTU,0.1320
+Macao,MAC,0.3680
+Madagascar,MDG,0.0160
+Malaysia,MYS,0.1980
+Maldives,MDV,0.3220
+Malta,MLT,0.2140
+Marshall Islands,MHL,0.1920
+Martinique,MTQ,0.2520
+Mauritania,MRT,0.0450
+Mauritius,MUS,0.2300
+Mexico,MEX,0.0870
+Micronesia (country),FSM,0.1030
+Monaco,MCO,0.2520
+Montenegro,MNE,0.1440
+Montserrat,MSR,0.1440
+Morocco,MAR,0.0730
+Mozambique,MOZ,0.0150
+Myanmar,MMR,0.0750
+Namibia,NAM,0.1440
+Nauru,NRU,0.1440
+Netherlands,NLD,0.4240
+Netherlands Antilles,ANT,0.2520
+New Caledonia,NCL,0.2520
+New Zealand,NZL,0.3310
+Nicaragua,NIC,0.1430
+Nigeria,NGA,0.1030
+Niue,NIU,0.2520
+Norfolk Island,NFK,0.1030
+North Korea,PRK,0.0540
+Northern Mariana Islands,MNP,0.2520
+Norway,NOR,0.2800
+Oman,OMN,0.0840
+Pakistan,PAK,0.1030
+Palau,PLW,0.1440
+Palestine,PSE,0.0630
+Panama,PAN,0.1450
+Papua New Guinea,PNG,0.1030
+Peru,PER,0.1440
+Philippines,PHL,0.0750
+Poland,POL,0.0970
+Portugal,PRT,0.2650
+Puerto Rico,PRI,0.2520
+Qatar,QAT,0.1600
+Reunion,REU,0.1440
+Romania,ROU,0.0420
+Russia,RUS,0.1120
+Saint Helena,SHN,0.1440
+Saint Kitts and Nevis,KNA,0.6540
+Saint Lucia,LCA,0.5220
+Saint Pierre and Miquelon,SPM,0.2520
+Saint Vincent and the Grenadines,VCT,0.2210
+Samoa,WSM,0.1030
+Sao Tome and Principe,STP,0.1030
+Saudi Arabia,SAU,0.1560
+Senegal,SEN,0.1030
+Seychelles,SYC,0.3580
+Sierra Leone,SLE,0.0410
+Singapore,SGP,0.1940
+Sint Maarten (Dutch part),SXM,0.2520
+Slovenia,SVN,0.1450
+Solomon Islands,SLB,0.1030
+Somalia,SOM,0.0540
+South Africa,ZAF,0.2400
+South Korea,KOR,0.1120
+Spain,ESP,0.2770
+Sri Lanka,LKA,0.3570
+Sudan,SDN,0.1030
+Suriname,SUR,0.1630
+Sweden,SWE,0.0480
+Syria,SYR,0.1780
+Taiwan,TWN,0.2520
+Tanzania,TZA,0.0230
+Thailand,THA,0.1440
+Togo,TGO,0.0570
+Tokelau,TKL,0.1030
+Tonga,TON,0.2230
+Trinidad and Tobago,TTO,0.2900
+Tunisia,TUN,0.1440
+Turkey,TUR,0.2120
+Turks and Caicos Islands,TCA,0.2520
+Tuvalu,TUV,0.1440
+Ukraine,UKR,0.1030
+United Arab Emirates,ARE,0.1990
+United Kingdom,GBR,0.2150
+United States,USA,0.3350
+Uruguay,URY,0.2520
+Vanuatu,VUT,0.2950
+Venezuela,VEN,0.2520
+Vietnam,VNM,0.1030
+Yemen,YEM,0.1030
