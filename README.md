@@ -34,6 +34,9 @@ An interesting trend emerged: **The Netherlands and Germany appear in the Top 10
 ### 3. The Major Importers
 **Türkiye** and **Malaysia** have emerged as the primary destinations for global plastic waste. This highlights a "Burden Shift," where waste from industrialized nations is managed by countries with developing waste infrastructures.
 
+<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/e10ac96c-e974-4330-a424-24465b8dc193" />
+
+
 ---
 ### 👤 Contact 
 - Eliza C. Huang | Data Analyst with a background in UX research and data-driven analysis.  
