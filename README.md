@@ -1,4 +1,5 @@
 # 🌍 Global Plastic Waste & The Burden Shift (ESG Analysis)
+<img width="auto" height="auto" alt="A dark purple banner titled: WHERE HAS OUR PLASTIC WASTE ENDED UP? featuring a crumpled plastic bottle on the left and a plastic cup on the right, with the subtitle: GLOBAL PLASTIC WASTE & THE BURDEN SHIFT: ESG Analysis." src="https://github.com/user-attachments/assets/a8d955b5-085e-4d71-aa49-c3bab2de311c" />
 
 ## 📌 Project Overview
 This project analyzes the global landscape of plastic waste, focusing on two questions:
@@ -34,7 +35,8 @@ An interesting trend emerged: **The Netherlands and Germany appear in the Top 10
 ### 3. The Major Importers
 **Türkiye** and **Malaysia** have emerged as the primary destinations for global plastic waste. This highlights a "Burden Shift," where waste from industrialized nations is managed by countries with developing waste infrastructures.
 
-<img width="600" height="auto" alt="image" src="https://github.com/user-attachments/assets/e10ac96c-e974-4330-a424-24465b8dc193" />
+<img width="250" height="auto" alt="A treemap chart titled Where the Waste Starts: Top Plastic Exporters identifying Japan as the world leader in plastic waste exports at over 683 million kg, followed by the Netherlands (551 million kg) and Belgium (362 million kg), while noting that most waste in these regions is still managed domestically." src="https://github.com/user-attachments/assets/e10ac96c-e974-4330-a424-24465b8dc193" />
+<img width="250" height="auto"  alt="A treemap chart titled The World's Leading Plastic Importers showing that Türkiye is the top destination with over 677 million kg of plastic waste, followed by Germany (523 million kg) and the Netherlands (483 million kg), highlighting that Türkiye is the primary destination for European plastic waste." src="https://github.com/user-attachments/assets/79d0be3f-47e9-4ef6-b52d-e327b6455c21" />
 
 
 ---
