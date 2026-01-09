@@ -1,4 +1,4 @@
-# 🌍 Global Plastic Waste & The Burden Shift (ESG Analysis)
+# Global Plastic Waste & The Burden Shift (ESG Analysis)
 <img width="auto" height="auto" alt="A dark purple banner titled: WHERE HAS OUR PLASTIC WASTE ENDED UP? featuring a crumpled plastic bottle on the left and a plastic cup on the right, with the subtitle: GLOBAL PLASTIC WASTE & THE BURDEN SHIFT: ESG Analysis." src="https://github.com/user-attachments/assets/a8d955b5-085e-4d71-aa49-c3bab2de311c" />
 
 ## 📌 Project Overview
