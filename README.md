@@ -28,15 +28,46 @@ The analysis was divided into three core queries to identify the leading actors 
 
 ### 1. The Per-Capita Leaders
 Small island nations (Antigua and Barbuda, Saint Kitts) and high-income oil-exporting nations (Kuwait) lead the world in per-capita plastic generation. This is often due to high tourism-to-population ratios and a heavy reliance on imported packaged goods.
+```
+SELECT country, 
+	pg.per_capita_kg_per_day,
+	RANK() OVER(ORDER BY per_capita_kg_per_day DESC) AS waste_rank
+FROM plastic_generation pg 
+GROUP BY country, per_capita_kg_per_day
+ORDER BY waste_rank
+LIMIT 10;
+```
 
 ### 2. The "Waste Hubs" (The Netherlands & Germany)
 An interesting trend emerged: **The Netherlands and Germany appear in the Top 10 for both Imports and Exports.** This indicates these nations act as global processing and transit hubs—importing waste to sort or recycle before re-exporting it.
+```
+SELECT country, 
+	SUM(weight_kg) / 1000 AS total_tonnes_imported
+FROM plastic_trade
+WHERE flow = 'Export'
+AND weight_kg IS NOT NULL
+GROUP BY country 
+ORDER BY total_tonnes_imported DESC
+LIMIT 10;
+```
 
 ### 3. The Major Importers
 **Türkiye** and **Malaysia** have emerged as the primary destinations for global plastic waste. This highlights a "Burden Shift," where waste from industrialized nations is managed by countries with developing waste infrastructures.
+```
+SELECT country, 
+	SUM(weight_kg) / 1000 AS total_tonnes_imported
+FROM plastic_trade
+WHERE flow = 'Import'
+AND weight_kg IS NOT NULL
+GROUP BY country 
+ORDER BY total_tonnes_imported DESC
+LIMIT 10;
+```
 
 <img width="250" height="auto" alt="A treemap chart titled Where the Waste Starts: Top Plastic Exporters identifying Japan as the world leader in plastic waste exports at over 683 million kg, followed by the Netherlands (551 million kg) and Belgium (362 million kg), while noting that most waste in these regions is still managed domestically." src="https://github.com/user-attachments/assets/e10ac96c-e974-4330-a424-24465b8dc193" />
 <img width="250" height="auto"  alt="A treemap chart titled The World's Leading Plastic Importers showing that Türkiye is the top destination with over 677 million kg of plastic waste, followed by Germany (523 million kg) and the Netherlands (483 million kg), highlighting that Türkiye is the primary destination for European plastic waste." src="https://github.com/user-attachments/assets/79d0be3f-47e9-4ef6-b52d-e327b6455c21" />
+
+
 
 
 ---
